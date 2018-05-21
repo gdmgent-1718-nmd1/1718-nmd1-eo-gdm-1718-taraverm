@@ -16,3 +16,42 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+.title {
+    padding: 50px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+dt {
+    font-weight: bold;
+}
+
+a {
+    background-color: hsla(348, 60%, 80%, 1);
+    border: 1px solid hsla(348, 60%, 75%, 1);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10%;
+}
+
+table {
+    width: 1200px;
+}
+
+th, td {
+    padding: 7px 10px 10px 10px;
+    border: 1px solid gray;
+}
+
+td {
+    width: 600px;
+}
+
+.positief {
+    background-color: lightgreen;
+}
+
+.negatief {
+    background-color: lightcoral;
+}
