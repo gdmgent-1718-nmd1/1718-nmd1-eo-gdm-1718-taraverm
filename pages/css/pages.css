@@ -36,7 +36,8 @@ a {
 }
 
 table {
-    width: 1200px;
+    width: 1000px;
+    margin: 40px;
 }
 
 th, td {
@@ -45,7 +46,7 @@ th, td {
 }
 
 td {
-    width: 600px;
+    width: 500px;
 }
 
 .positief {
