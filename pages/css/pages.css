@@ -17,22 +17,8 @@ img {
 
 /* Voeg jouw css hieraan toe */
 
-.title {
-    padding: 50px;
-    text-align: center;
-    border: 2px solid black;
-}
-
 dt {
     font-weight: bold;
-}
-
-a {
-    background-color: hsla(348, 60%, 80%, 1);
-    border: 1px solid hsla(348, 60%, 75%, 1);
-    padding: 5px;
-    margin: 10px;
-    border-radius: 10%;
 }
 
 table {
