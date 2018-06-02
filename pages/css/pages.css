@@ -26,13 +26,14 @@ table {
     margin: 40px;
 }
 
-th, td {
+td {
     padding: 7px 10px 10px 10px;
-    border: 1px solid gray;
+    border: 2px solid hsla(348, 60%, 57%, 0.5); 
+    width: 500px;
 }
 
-td {
-    width: 500px;
+th {
+    padding: 7px 10px 10px 10px;
 }
 
 .positief {
@@ -41,4 +42,31 @@ td {
 
 .negatief {
     background-color: lightcoral;
+}
+ 
+.concurrent{
+    text-align: center;
+}
+
+.title {
+    background-color: hsla(348, 60%, 57%, 0.5);
+    width: 100%;
+    padding:10px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+
+.info {
+    width: 150px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid hsla(348, 60%, 57%, 0.5);
+}
+
+.scenario {
+    width: 100%px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid hsla(348, 60%, 57%, 0.5);
 }
